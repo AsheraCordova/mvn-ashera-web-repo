@@ -7,6 +7,10 @@
     <versions>
       <version>1.0.0</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20231228034002</lastUpdated>
+=======
+    <lastUpdated>20231227140954</lastUpdated>
+>>>>>>> branch 'master' of https://github.com/AsheraCordova/mvn-ashera-web-repo.git
   </versioning>
 </metadata>
